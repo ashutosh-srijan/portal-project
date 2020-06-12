@@ -1,0 +1,13 @@
+{
+    "name": "ashutosh/portal-project",
+    "description": "My first package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ashutosh Singh",
+            "email": "ashutoshsngh67@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
